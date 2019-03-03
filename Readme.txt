@@ -1,0 +1,1 @@
+A web crawler which gets headline from a news website and sends it to mobile using twilio api.
